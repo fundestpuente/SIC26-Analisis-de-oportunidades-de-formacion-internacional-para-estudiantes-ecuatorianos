@@ -1,23 +1,27 @@
-# Titulo  
-**Sub titulo**
+# EduConnection
+**Análisis de oportunidades de formación internacional para estudiantes ecuatorianos**
 
 **Curso:** Samsung Innovation Campus – Módulo de Python (Ecuador 2026)  
-**Sección:** EC...
+**Sección:** EC - A
 
 
 ---
 
 ## 👥 Integrantes del Grupo
--
--
--
--
--
+- Danny Tiupul
+- Luis Ayala
+- Roberto Barrera
+- Josue Vargas
+- Jose Vallejos
 
 ---
 
 ## 📝 Descripción del Proyecto
 
+Los estudiantes universitarios en Ecuador que buscan acceder a oportunidades de formación internacional, como becas, intercambios académicos, cursos, programas de investigación y capacitaciones, se enfrentan a dificultades para encontrar, organizar y comparar información relevante. Estas oportunidades se encuentran dispersas en diferentes páginas web, instituciones y plataformas, lo que puede dificultar su identificación y evaluación, especialmente al momento de conocer sus requisitos, costos, idiomas, modalidades y fechas límite de postulación. 
+Ante esta problemática, se propone como proyecto del Módulo de Python, un prototipo de análisis estadístico basado en la recopilación y organización de un catálogo recopilado de oportunidades educativas internacionales disponibles para estudiantes ecuatorianos. Se procesará y analizará la información para identificar la oferta disponible, caracterizar sus principales modalidades, tipos de programas, idiomas, requisitos, financiamiento y calendarios de postulación.
+
+El prototipo permitirá generar tablas, estadísticas y visualizaciones que faciliten la comprensión de la oferta internacional y permitan identificar oportunidades potencialmente accesibles para estudiantes ecuatorianos.
 
 ---
 
